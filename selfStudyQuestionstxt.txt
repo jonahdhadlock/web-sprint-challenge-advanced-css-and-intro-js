@@ -1,0 +1,25 @@
+Sprint Challenge: Advanced CSS & Introduction to JavaScript
+
+
+1. How would you describe acessibility on the web to someone new to programming?
+Accessibility is the way that programmers create websites that are friendly to persons
+with disabilities such as blindness or others. These methods can include having meaningful
+alt descriptions for all images on the website, having a good balance of colors that are
+easy on the eyes (so to speak), using structural HTML (e.g. main, section, p, aside, etc.). 
+
+2. Talk about 3 different things you can do to ensure your website is accessible.
+Use the methods mentioned in question 2: structural HTML, meaningful alt descriptions, 
+easy-to-read fonts and colors, and maybe even providing your own audio for all text.
+
+3. How would you explain the concept of a variable to someone new to programming?
+A variable can be defined as var/let/const in JS. These types are then declared a name 
+such as var firstName. This newly declared variable, firstName, is then assigned a value,
+such as var firstName = "Jonah". Variables hold values (e.g. numbers, strings (text 
+inside ""), arrays, objects, and others I have probably not yet learned. Variables are a
+simple concept: something that is a placeholder for something else that lessens the work
+for the programmer and keeps things organized in the code for the computer and programmer.
+
+4. What is the purpose of using functions in code?
+Functions in code get the JS code to do more with the data in the code (e.g. the variables).
+Functions are there to execute a specific task or tasks, and they must be called from
+outside the function {} in order for the function to return/show any solutions or actions.

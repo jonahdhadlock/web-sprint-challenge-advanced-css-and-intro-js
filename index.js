@@ -212,7 +212,7 @@ const artists = [{
 // console.log(artists[8].name);
 // artists[8].name = "Vincent Van Gogh";
 // console.log(artists[8].name);
-/* Task 3: Create a function called `getArtistByIndex` that takes two arguments:
+/* Task 3: Create a function called `getArtistByIndex` that takes two arguments: HELP!!!
  *     (1) artists array
  *     (2) a number which is the desired index in the array.
  * getArtistByIndex returns a string in the format `The artist at index {id} is {name}.`
@@ -220,10 +220,10 @@ const artists = [{
  * For example, if getArtistByIndex is invoked with the artists dataset and the number 0,
  * it will return `The artist at index 0 is Amedeo Modigliani`.
  */
-function getArtistByIndex(array, index) {
-    /* code here */
-}
-
+// function getArtistByIndex(array, index) {
+//     return "The artist at index " + index + " is " + array[index].name;
+// }
+// console.log(getArtistByIndex(artists, 0));
 /**
 
 

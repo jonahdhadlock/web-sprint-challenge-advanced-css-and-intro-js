@@ -234,7 +234,7 @@ const artists = [{
 // }
 
 
-/* Task 5: Create a function called `removeArtist` that takes two arguments: HELP!!!
+/* Task 5: Create a function called `removeArtist` that takes two arguments:
  *     (1) artists array
  *     (2) a number which is the desired index in the array.
  * removeArtist removes an artist from the array at the index and console.logs the length of the remaining dataset.
@@ -244,12 +244,12 @@ const artists = [{
  * 
  * Note that sucessfully invoking this function multiple times without refreshing your browser will continuously remove artists from the array until there are none left. If you refresh your browser, the data will reset.  
  */
-function removeArtist(array, index) {
-    array.splice(index, 1);
-    return array.length;
-}
+// function removeArtist(array, index) {
+//     array.splice(index, 1);
+//     return array.length;
+// }
 
-console.log(removeArtist(artists, 0));
+// console.log(removeArtist(artists, 0));
 /**
 /* Task 6: Create a function called `addArtist` that can accept an object of information and add it to the artists array. Then, add a 21st artist to the array (you) with custom information!👩‍🎨👨‍🎨
 
